@@ -8,16 +8,16 @@
     "InternalName": "Peon",
     "AssemblyVersion": "1.0.3.1",
     "TestingAssemblyVersion": "1.0.3.2",
-    "RepoUrl": "https://github.com/Ottermandias/Peon",
+    "RepoUrl": "https://github.com/Hikayuki/Peon",
     "ApplicableVersion": "any",
     "DalamudApiLevel": 6,
     "IsHide": "False",
     "IsTestingExclusive": "False",
     "DownloadCount": 1,
     "LastUpdate": 1618608321,
-    "DownloadLinkInstall": "https://github.com/Ottermandias/Peon/raw/main/Peon.zip",
-    "DownloadLinkTesting": "https://github.com/Ottermandias/Peon/raw/main/Peon.zip",
-    "DownloadLinkUpdate": "https://github.com/Ottermandias/Peon/raw/main/Peon.zip",
+    "DownloadLinkInstall": "https://github.com/Hikayuki/Peon/raw/main/Peon.zip",
+    "DownloadLinkTesting": "https://github.com/Hikayuki/Peon/raw/main/Peon.zip",
+    "DownloadLinkUpdate": "https://github.com/Hikayuki/Peon/raw/main/Peon.zip",
     "IconUrl": "https://i.imgur.com/lkZqgBW.png"
   }
 ]
